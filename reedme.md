@@ -9,6 +9,7 @@ compiled class files.
 ## Table of Contents
 
 - [Week 1](/week_1)
+        ## Contents
       - [Programming Assignment 1](/week_1/ProgrammingAssignment1.java)
       - [Programming Assignment 2](/week_1/ProgrammingAssignment2.java)
       - [Programming Assignment 3](/week_1/ProgrammingAssignment1.java)
