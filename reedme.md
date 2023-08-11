@@ -43,10 +43,10 @@ The repository is organized by weeks, and each week's folder contains the follow
 2. run on cmd using jdk
 
 ## Write to edit 
-    [ Vinayak Kushwah ] (https://github.com/vinayakkushwah01/)
+    [ Vinayak Kushwah ](https://github.com/vinayakkushwah01/)
     
 ## contact information : -  
-    [GitHub ] (github.com/vinayakkushwah01/)
-    [LinkedIn ] (linkedin.com/in/vinayakkushwah/)
-    [Gmail ] (kushwahvinayak1@gmail.com)
+    [GitHub ](github.com/vinayakkushwah01/)
+    [LinkedIn ](linkedin.com/in/vinayakkushwah/)
+    [Gmail ](kushwahvinayak1@gmail.com)
 
