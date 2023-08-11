@@ -22,7 +22,7 @@ compiled class files.
 
 - [output image ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/outputFile.png)
 
-- [class files ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/class files/)
+- [class files ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/tree/main/week_1/class%20files)
 
        
 ### [Week 2](/week_1)
