@@ -48,6 +48,6 @@ The repository is organized by weeks, and each week's folder contains the follow
     
 ## contact information : -  
 - [GitHub](https://github.com/vinayakkushwah01/)
-- [LinkedIn](linkedin.com/in/vinayakkushwah/)
-- [Gmail](kushwahvinayak1@gmail.com/)
+- [LinkedIn]([linkedin.com/in/vinayakkushwah/](https://www.linkedin.com/in/vinayakkushwah/))
+- [Gmail](mailto:kushwahvinayak1@gmail.com/)
 
