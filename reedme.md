@@ -9,12 +9,26 @@ compiled class files.
 ## Table of Contents
 
 - [Week 1](/week_1)
-      ->
-      ->
-      ->
+      ->[Programming Assignment 1] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 2] (/week_1/ProgrammingAssignment2.java)
+      ->[Programming Assignment 3] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 4] (/week_1/ProgrammingAssignment4.java)
+      ->[Programming Assignment 5] (/week_1/ProgrammingAssignment5.java)
+      ->[output image ] (/week_1/outputFile.png)
+      *-> [class files ] (/week_1/class files/)
 - [Week 2](#week-2)
+      ->[Programming Assignment 1] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 2] (/week_1/ProgrammingAssignment2.java)
+      ->[Programming Assignment 3] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 4] (/week_1/ProgrammingAssignment4.java)
+      ->[Programming Assignment 5] (/week_1/ProgrammingAssignment5.java)
 - [Week 3](#week-3)
-- ... (continue for each week)
+-    ->[Programming Assignment 1] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 2] (/week_1/ProgrammingAssignment2.java)
+      ->[Programming Assignment 3] (/week_1/ProgrammingAssignment1.java)
+      ->[Programming Assignment 4] (/week_1/ProgrammingAssignment4.java)
+      ->[Programming Assignment 5] (/week_1/ProgrammingAssignment5.java)
+
 
 
 
@@ -26,4 +40,13 @@ The repository is organized by weeks, and each week's folder contains the follow
 
 ## How to Use
 1. Clone this repository to your local machine
-2. run on cmd using jdk 
+2. run on cmd using jdk
+
+## Write to edit 
+    [ Vinayak Kushwah ] (https://github.com/vinayakkushwah01/)
+    
+## contact information : -  
+    [GitHub ] (github.com/vinayakkushwah01/)
+    [LinkedIn ] (linkedin.com/in/vinayakkushwah/)
+    [Gmail ] (kushwahvinayak1@gmail.com)
+
