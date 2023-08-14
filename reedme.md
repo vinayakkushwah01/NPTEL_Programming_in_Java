@@ -29,17 +29,14 @@ compiled class files.
 
 - [Programming Assignment 1](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment1.java) 
 
-- [Programming Assignment 2](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/ProgrammingAssignment2.java)
+- [Programming Assignment 2](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment2.java)
 
-- [Programming Assignment 3](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/ProgrammingAssignment1.java)
+- [Programming Assignment 3](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment3.java)
 
-- [Programming Assignment 4](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/ProgrammingAssignment4.java)
+- [Programming Assignment 4](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment4.java)
 
-- [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/ProgrammingAssignment5.java)
+- [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment5.java)
 
-- [output image ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/week_1/outputFile.png)
-
-- [class files ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/tree/main/week_1/class%20files)
 
 
 
