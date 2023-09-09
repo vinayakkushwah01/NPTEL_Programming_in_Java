@@ -25,7 +25,7 @@ compiled class files.
 - [class files ](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/tree/main/week_1/class%20files)
 
        
-### [Week 2](/week_1)
+### [Week 2](/week_2)
 
 - [Programming Assignment 1](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment1.java) 
 
@@ -38,7 +38,17 @@ compiled class files.
 - [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_2/ProgrammingAssignment5.java)
 
 
+### [Week 3](/week_3)
 
+- [Programming Assignment 1](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment1.java) 
+
+- [Programming Assignment 2](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment2.java)
+
+- [Programming Assignment 3](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment3.java)
+
+- [Programming Assignment 4](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment4.java)
+
+- [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment5.java)
 
 
 
@@ -50,7 +60,9 @@ The repository is organized by weeks, and each week's folder contains the follow
 
 ## How to Use
 1. Clone this repository to your local machine
-2. run on cmd using jdk
+2. Change  the File name As metioned in file as class name
+3. Compile using jdk by command :-      javac "filename".java
+4. run on cmd using jre by command  :-  java "file name "
 
 ## Write to edit 
 - [Vinayak Kushwah ](https://github.com/vinayakkushwah01/)
