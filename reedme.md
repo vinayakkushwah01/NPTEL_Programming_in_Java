@@ -50,7 +50,17 @@ compiled class files.
 
 - [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_3/ProgrammingAssignment5.java)
 
+### [Week 4](/week_4)
 
+- [Programming Assignment 1](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_4/ProgrammingAssignment1.java) 
+
+- [Programming Assignment 2](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_4/ProgrammingAssignment2.java)
+
+- [Programming Assignment 3](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_4/ProgrammingAssignment3.java)
+
+- [Programming Assignment 4](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_4/ProgrammingAssignment4.java)
+
+- [Programming Assignment 5](https://github.com/vinayakkushwah01/NPTEL_Programming_in_Java/blob/main/week_4/ProgrammingAssignment5.java)
 
 The repository is organized by weeks, and each week's folder contains the following:
 
